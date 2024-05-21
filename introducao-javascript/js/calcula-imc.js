@@ -2,7 +2,7 @@
     titulo.textContent = "Nutrição com Aparecida";
 
     var subtitulo = document.querySelector(".subtitulo ");
-    subtitulo.textContent = ("Meus Clientes");
+    subtitulo.textContent = ("Clientela da Dona Maria");
 
 //--------------------------------------------------------------//
 

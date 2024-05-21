@@ -3,10 +3,10 @@
  }
 
 :root {
-	--primeiraCor: #8CB9BD;
-	--segundaCor:#FEFBF6 ;
-	--terceiraCor:#638889 ;
-	--quartaCor:#2D3250 ;
+	--primeiraCor: #FC4100;
+	--segundaCor:#FFC55A ;
+	--terceiraCor:#00215E ;
+	--quartaCor:#2C4E80 ;
 }
 .tudo{
 	font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
@@ -195,8 +195,8 @@ button[disabled=disabled], button:disabled {
 #filtrar-tabela{
 	width:60%;
 	height: 30px;
-	border 100px solid;
-	border-radius: 4px;
+	border: 3px solid;
+	border-radius: 12px;
 	background: var(--segundaCor);
 	margin-bottom: 12px;
 }
